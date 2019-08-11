@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Job Portal</string>
+    <string name="search_query_hint">Search Jobs</string>
+    <string name="tab_one">Search Jobs</string>
+    <string name="tab_two">Saved</string>
+    <string name="job_role">What You Will do:</string>
+    <string name="job_requirements">Requirements:</string>
+    <string name="share_this">Share this</string>
+    <string name="no_save_jobs">No Save Jobs</string>
+    <string name="no_save_explain">It seems you have not save any jobs yet</string>
+    <string name="no_connection">Your Connection Seems Sleeping</string>
+    <string name="no_connection_explain">Slow or no internet, Please check you network</string>
+    <string name="no_search_results">No Search Results Found</string>
+    <string name="no_search_results_explain">We have Searched Million Jobs But did not find</string>
+
+
+
+</resources>
